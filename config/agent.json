@@ -1,0 +1,10 @@
+{
+  "agent_id": "d89f83fc-1344-4a93-8d34-08ee0d4f4441",
+  "name": "Kelly Interview Agent",
+  "service_type": "interview",
+  "description": "Offer insightful interview advice",
+  "posted_price_usd": "1.50",
+  "wallet_address": "",
+  "token_address": "",
+  "token_symbol": "TEAMI"
+}
